@@ -12,6 +12,7 @@ public class IocAndDiApplication {
         ApplicationContext context=SpringApplication.run(IocAndDiApplication.class, args);
 
         Vehicle vehicle = context.getBean(Vehicle.class);
+        vehicle.move();
 //        System.out.println("hello");
     }
 
