@@ -1,5 +1,6 @@
 package com.example.iocanddi;
 
+import com.example.iocanddi.model.Vehicle;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;

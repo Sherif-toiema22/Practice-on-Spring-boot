@@ -1,4 +1,4 @@
-package com.example.iocanddi;
+package com.example.iocanddi.model;
 
 import org.springframework.stereotype.Component;
 
