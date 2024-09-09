@@ -14,7 +14,7 @@ public class IocAndDiApplication {
 
         Vehicle vehicle = context.getBean(Vehicle.class);
         vehicle.move();
-//        System.out.println("hello");
+        System.out.println("hello");
     }
 
 }
